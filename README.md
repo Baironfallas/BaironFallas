@@ -32,11 +32,11 @@ Actualmente me enfoco en mejorar mis habilidades en **React**, **TypeScript**, *
 
 ## 📊 Métricas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Baironfallas&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F778A1&icon_color=F778A1&text_color=CDD9E5&ring_color=F778A1)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Baironfallas&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=10)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Baironfallas&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=F778A1&text_color=CDD9E5)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Baironfallas&layout=donut&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Baironfallas&theme=radical&hide_border=true&background=0D1117&ring=F778A1&fire=F778A1&currStreakLabel=F778A1&sideLabels=CDD9E5&dates=CDD9E5&currStreakNum=CDD9E5&sideNums=CDD9E5)
+![GitHub Streak](https://streak-stats.demolab.com?user=Baironfallas&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&border_radius=10)
 
 ---
 
