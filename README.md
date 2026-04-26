@@ -38,7 +38,7 @@ Actualmente me enfoco en mejorar mis habilidades en **React**, **TypeScript**, *
       <img src="https://github-readme-stats.vercel.app/api?username=Baironfallas&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=10" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baironfallas&layout=donut&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10" />
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baironfallas&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10" />
     </td>
   </tr>
   <tr>
