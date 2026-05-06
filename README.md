@@ -42,13 +42,14 @@ Soy un desarrollador fullstack apasionado por construir aplicaciones completas d
 
 ---
 
+
 ### 📊 Métricas de GitHub
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=BaironFallas&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baironfallas&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=BaironFallas&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Estadísticas de GitHub de Bairon Fallas"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaironFallas&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Lenguajes más usados por Bairon Fallas"/>
   <br><br>
-  <img width="70%" src="https://streak-stats.demolab.com?user=Baironfallas&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E"/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=BaironFallas&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="Racha de contribuciones de GitHub de Bairon Fallas"/>
 </div>
 
 ---
