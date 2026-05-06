@@ -36,7 +36,7 @@ Soy un desarrollador fullstack apasionado por construir aplicaciones completas d
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,nestjs,dotnet,cs,express,postgresql,mongodb,sqlserver,git,github,docker,vscode,postman" />
+   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,nestjs,dotnet,cs,express,postgresql,mongodb,sqlserver,git,github,docker,vscode,postman" alt="Habilidades técnicas de Bairon Fallas" />
   </a>
 </p>
 
