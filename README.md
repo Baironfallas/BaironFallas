@@ -35,7 +35,6 @@
 &nbsp;⚡ &nbsp;Me apasiona escribir código **limpio, escalable y mantenible**  
 &nbsp;🌱 &nbsp;Siempre aprendiendo nuevas tecnologías y mejores prácticas  
 &nbsp;🤝 &nbsp;Abierto a colaboraciones y nuevas oportunidades  
-&nbsp;🇨🇷 &nbsp;Basado en **Costa Rica**  
 
 <br/>
 
