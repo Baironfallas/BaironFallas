@@ -18,11 +18,6 @@
   <img src="https://img.shields.io/badge/GitHub-11212D?style=for-the-badge&logo=github&logoColor=CCD0CF&labelColor=06141B" />
 </a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=BaironFallas&style=for-the-badge&color=253745&labelColor=06141B&label=VISITAS+AL+PERFIL" />
-<img src="https://img.shields.io/badge/Disponible_para_trabajar-4A5C6A?style=for-the-badge&logoColor=CCD0CF&labelColor=06141B" />
-<img src="https://img.shields.io/badge/Costa_Rica_🇨🇷-11212D?style=for-the-badge&labelColor=06141B" />
 
 </div>
 
@@ -129,44 +124,6 @@
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BaironFallas&bg_color=06141B&color=9BA8AB&line=4A5C6A&point=CCD0CF&area=true&area_color=25374520&hide_border=true&custom_title=Actividad+de+contribuciones" />
-
-</div>
-
-<br/>
-
----
-
-## 🏆 &nbsp;Trofeos de GitHub
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=BaironFallas&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" />
-
-</div>
-
-<br/>
-
----
-
-## 💡 &nbsp;Filosofía de desarrollo
-
-<br/>
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│   🧠  Pensar antes de codificar                         │
-│   📐  Arquitectura limpia desde el inicio               │
-│   🔄  Refactorizar constantemente                       │
-│   🧪  Testear, no asumir                                │
-│   🚀  Entregar valor, no solo código                    │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
 
 </div>
 
