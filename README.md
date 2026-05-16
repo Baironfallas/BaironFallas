@@ -19,14 +19,13 @@
 
 ## 🧠 Sobre mí
 
-```yaml
-nombre:      Bairon Fallas
-rol:         Fullstack Developer
-ubicación:   Costa Rica 🇨🇷
-enfoque:     Aplicaciones web limpias, escalables y bien estructuradas
-aprendiendo: [React, TypeScript, NestJS, .NET, SQL]
-disponible:  Abierto a nuevas oportunidades y colaboraciones
-```
+Soy un desarrollador fullstack de Costa Rica 🇨🇷 apasionado por construir aplicaciones web completas — desde la interfaz que el usuario ve hasta la lógica que la hace funcionar.
+
+Me gusta escribir código limpio, pensar en la arquitectura antes de escribir la primera línea, y entregar soluciones que realmente resuelvan problemas. No me conformo con que "funcione"; quiero que esté bien hecho.
+
+Actualmente estoy profundizando en **React**, **TypeScript**, **NestJS**, **.NET** y **SQL**, con el objetivo de convertirme en un desarrollador cada vez más completo y versátil.
+
+> 💬 *"El buen código no se escribe una vez — se refina hasta que habla por sí solo."*
 
 ---
 
@@ -40,30 +39,6 @@ disponible:  Abierto a nuevas oportunidades y colaboraciones
 | ⚙️ **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=FF6F00) ![NestJS](https://img.shields.io/badge/NestJS-0D1117?style=flat-square&logo=nestjs&logoColor=FF6F00) ![.NET](https://img.shields.io/badge/.NET-0D1117?style=flat-square&logo=dotnet&logoColor=1565C0) ![C#](https://img.shields.io/badge/C%23-0D1117?style=flat-square&logo=csharp&logoColor=1565C0) ![Express](https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=white) |
 | 🗄️ **Bases de datos** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=1565C0) ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=FF6F00) ![SQL Server](https://img.shields.io/badge/SQL%20Server-0D1117?style=flat-square&logo=microsoftsqlserver&logoColor=FF6F00) |
 | 🔧 **Herramientas** | ![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=FF6F00) ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=1565C0) ![Postman](https://img.shields.io/badge/Postman-0D1117?style=flat-square&logo=postman&logoColor=FF6F00) ![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=flat-square&logo=visualstudiocode&logoColor=1565C0) |
-
-</div>
-
----
-
-## 📊 Métricas de GitHub
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=BaironFallas&hide_border=true&background=0D1117&ring=1565C0&fire=FF6F00&currStreakLabel=FF6F00&sideLabels=ffffff&dates=8b949e&stroke=1565C0" />
-
-<br><br>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=BaironFallas&bg_color=0D1117&color=1565C0&line=FF6F00&point=ffffff&area=true&area_color=1565C0&hide_border=true&radius=8" />
-
-</div>
-
----
-
-## 🏆 Trofeos
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=BaironFallas&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=8&rank=SSS,SS,S,AAA,AA,A,B,C" />
 
 </div>
 
