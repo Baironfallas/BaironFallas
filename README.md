@@ -49,11 +49,6 @@ disponible:  Abierto a nuevas oportunidades y colaboraciones
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=BaironFallas&show_icons=true&hide_border=true&bg_color=0D1117&title_color=1565C0&icon_color=FF6F00&text_color=ffffff&ring_color=FF6F00" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaironFallas&layout=compact&hide_border=true&bg_color=0D1117&title_color=1565C0&text_color=ffffff" />
-
-<br>
-
 <img width="70%" src="https://streak-stats.demolab.com?user=BaironFallas&hide_border=true&background=0D1117&ring=1565C0&fire=FF6F00&currStreakLabel=FF6F00&sideLabels=ffffff&dates=8b949e&stroke=1565C0" />
 
 <br><br>
