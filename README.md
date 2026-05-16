@@ -1,67 +1,91 @@
 <div align="center">
 
-# 👋 Hola, soy Bairon Fallas
-
-### 💻 Fullstack Developer · 🎓 Ingeniero de Sistemas
-
-<p>
-  Construyo soluciones web limpias, escalables y bien estructuradas,  
-  enfocadas en buenas prácticas y aprendizaje continuo.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7F7,50:818CF8,100:F472B6&height=200&section=header&text=Bairon%20Fallas&fontSize=50&fontAlignY=38&fontColor=ffffff&desc=Fullstack%20Developer%20%C2%B7%20Ingeniero%20de%20Sistemas&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <br>
 
-<a href="https://www.linkedin.com/in/bairon-fallas-baltodano-b9b439347/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:fallasbaltodanobairon@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=818CF8&center=true&vCenter=true&width=600&lines=Construyo+aplicaciones+desde+cero+%F0%9F%9A%80;Frontend+%2B+Backend+%2B+Bases+de+datos+%F0%9F%97%84%EF%B8%8F;Clean+code+%2B+buenas+pr%C3%A1cticas+%E2%9C%A8;Siempre+aprendiendo+algo+nuevo+%F0%9F%93%9A)](https://git.io/typing-svg)
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-818CF8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bairon-fallas-baltodano-b9b439347/)
+[![Gmail](https://img.shields.io/badge/Gmail-F472B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fallasbaltodanobairon@gmail.com)
 
 </div>
 
 ---
 
-### 🧠 Sobre mí
+## 🧠 Sobre mí
 
-Soy un desarrollador fullstack apasionado por construir aplicaciones completas desde cero. Mi experiencia abarca desde el diseño de interfaces de usuario intuitivas hasta la implementación de lógica de backend robusta y la gestión de bases de datos. Actualmente estoy fortaleciendo mis habilidades en:
-
-<p align="center">
-  <strong>React · TypeScript · NestJS · .NET · SQL</strong>
-</p>
-
----
-
-### 🛠️ Habilidades
-
-<p align="center">
-  <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,nestjs,dotnet,cs,express,postgresql,mongodb,sqlserver,git,github,docker,vscode,postman" alt="Habilidades técnicas de Bairon Fallas" />
-  </a>
-</p>
+```yaml
+nombre:     Bairon Fallas
+rol:        Fullstack Developer
+ubicación:  Costa Rica 🇨🇷
+enfoque:    Aplicaciones web limpias, escalables y bien estructuradas
+aprendiendo: [React, TypeScript, NestJS, .NET, SQL]
+```
 
 ---
 
+## 🛠️ Stack técnico
 
-### 📊 Métricas de GitHub
+**Frontend**
+
+![React](https://img.shields.io/badge/React-6EE7F7?style=flat-square&logo=react&logoColor=0D1117)
+![Next.js](https://img.shields.io/badge/Next.js-ffffff?style=flat-square&logo=nextdotjs&logoColor=0D1117)
+![TypeScript](https://img.shields.io/badge/TypeScript-818CF8?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-6EE7F7?style=flat-square&logo=tailwindcss&logoColor=0D1117)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-6EE7F7?style=flat-square&logo=nodedotjs&logoColor=0D1117)
+![NestJS](https://img.shields.io/badge/NestJS-F472B6?style=flat-square&logo=nestjs&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-818CF8?style=flat-square&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-818CF8?style=flat-square&logo=csharp&logoColor=white)
+![Express](https://img.shields.io/badge/Express-ffffff?style=flat-square&logo=express&logoColor=0D1117)
+
+**Bases de datos**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6EE7F7?style=flat-square&logo=postgresql&logoColor=0D1117)
+![MongoDB](https://img.shields.io/badge/MongoDB-6EE7F7?style=flat-square&logo=mongodb&logoColor=0D1117)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-F472B6?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+**Herramientas**
+
+![Git](https://img.shields.io/badge/Git-F472B6?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-6EE7F7?style=flat-square&logo=docker&logoColor=0D1117)
+![Postman](https://img.shields.io/badge/Postman-F472B6?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-818CF8?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📊 Métricas de GitHub
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=BaironFallas&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Estadísticas de GitHub de Bairon Fallas"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaironFallas&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Lenguajes más usados por Bairon Fallas"/>
-  <br><br>
-  <img width="70%" src="https://streak-stats.demolab.com?user=BaironFallas&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="Racha de contribuciones de GitHub de Bairon Fallas"/>
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=BaironFallas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=6EE7F7&text_color=ffffff&ring_color=F472B6" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaironFallas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=ffffff" />
+
+<br><br>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=BaironFallas&theme=tokyonight&hide_border=true&background=0D1117&ring=818CF8&fire=F472B6&currStreakLabel=6EE7F7&sideLabels=ffffff&dates=8b949e" />
+
 </div>
 
 ---
 
-### 📫 Contacto
+## 🏆 Trofeos
 
 <div align="center">
-  <p>¡Conectemos! Siempre estoy abierto a nuevas oportunidades y colaboraciones.</p>
-  <a href="https://www.linkedin.com/in/bairon-fallas-baltodano-b9b439347/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:fallasbaltodanobairon@gmail.com">
-    <img src="https://img.shields.io/badge/Envíame_un_correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
+
+<img src="https://github-profile-trophy.vercel.app/?username=BaironFallas&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F472B6,50:818CF8,100:6EE7F7&height=120&section=footer" />
+
 </div>
