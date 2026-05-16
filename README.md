@@ -19,13 +19,14 @@
 
 ## 👤 Sobre mí
 
-| | |
-|---|---|
-| 🌍 **Ubicación** | Costa Rica |
-| 💼 **Rol** | Fullstack Developer |
-| 🔭 **Actualmente** | Profundizando en React, NestJS y .NET |
-| 🌱 **Enfoque** | Código limpio y arquitectura sólida |
-| 💬 **Disponible** | Para colaboraciones y oportunidades |
+![Status](https://img.shields.io/badge/Disponible_para_trabajar-FF6F00?style=flat-square&logoColor=white)
+![Location](https://img.shields.io/badge/Costa_Rica_🇨🇷-1565C0?style=flat-square)
+
+Desarrollador fullstack apasionado por construir soluciones web completas,
+limpias y escalables. Me muevo con comodidad entre el frontend y el backend,
+siempre buscando escribir código que sea fácil de mantener y de escalar.
+
+**Lo que me define:** curiosidad constante, atención al detalle y ganas de seguir mejorando.
 | ⚡ **Dato extra** | Me apasiona construir desde cero |
 
 ---
