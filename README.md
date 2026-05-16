@@ -17,15 +17,16 @@
 
 ---
 
-## 🧠 Sobre mí
+## 👤 Sobre mí
 
-Soy un desarrollador fullstack de Costa Rica 🇨🇷 apasionado por construir aplicaciones web completas — desde la interfaz que el usuario ve hasta la lógica que la hace funcionar.
-
-Me gusta escribir código limpio, pensar en la arquitectura antes de escribir la primera línea, y entregar soluciones que realmente resuelvan problemas. No me conformo con que "funcione"; quiero que esté bien hecho.
-
-Actualmente estoy profundizando en **React**, **TypeScript**, **NestJS**, **.NET** y **SQL**, con el objetivo de convertirme en un desarrollador cada vez más completo y versátil.
-
-> 💬 *"El buen código no se escribe una vez — se refina hasta que habla por sí solo."*
+| | |
+|---|---|
+| 🌍 **Ubicación** | Costa Rica |
+| 💼 **Rol** | Fullstack Developer |
+| 🔭 **Actualmente** | Profundizando en React, NestJS y .NET |
+| 🌱 **Enfoque** | Código limpio y arquitectura sólida |
+| 💬 **Disponible** | Para colaboraciones y oportunidades |
+| ⚡ **Dato extra** | Me apasiona construir desde cero |
 
 ---
 
