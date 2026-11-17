@@ -1,23 +1,82 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:13262F,100:2C4A5E&height=300&section=header&text=Bairon%20Fallas&fontSize=72&fontColor=E6EAEB&fontAlignY=40&desc=Desarrollador%20Full%20Stack&descSize=22&descAlignY=60&animation=fadeIn" width="100%" />
 
-<p align="center">
-  Construyo aplicaciones web completas, desde la base de datos hasta la interfaz.
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/bairon-josue-fallas"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:fallasbaltodanob@gmail.com"><img src="https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" /></a>
-  <a href="https://bairon-fallas.vercel.app"><img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio" /></a>
-</p>
+# Bairon Fallas
 
-<br/>
+**Desarrollador Full Stack**
 
-<h2 align="center">Tecnologías</h2>
+Construyo aplicaciones web completas, desde la base de datos hasta la interfaz.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,astro,nextjs,tailwind,html,css&perline=8" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,dotnet,cs,python&perline=8" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,github,docker,postman,azure&perline=8" />
-</p>
+<br>
+
+<a href="https://www.linkedin.com/in/bairon-josue-fallas">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:fallasbaltodanob@gmail.com">
+  <img src="https://img.shields.io/badge/Correo-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" />
+</a>
+<a href="https://bairon-fallas.vercel.app">
+  <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio" />
+</a>
+
+</div>
+
+<br>
+
+---
+
+<h3 align="center">Tecnologías</h3>
+
+<br>
+
+<div align="center">
+
+**Frontend**
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,astro,nextjs,tailwind,html,css&perline=4&theme=dark" alt="Frontend" />
+
+<br><br>
+
+**Backend**
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,dotnet,cs,python&perline=3&theme=dark" alt="Backend" />
+
+<br><br>
+
+**Bases de datos**
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=3&theme=dark" alt="Bases de datos" />
+
+<br><br>
+
+**Herramientas y plataformas**
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,azure&perline=5&theme=dark" alt="Herramientas y plataformas" />
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+<sub>
+  Diseñando y desarrollando soluciones web de principio a fin.
+</sub>
+
+<br><br>
+
+<a href="https://bairon-fallas.vercel.app">Explorar portafolio</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="mailto:fallasbaltodanob@gmail.com">Contactar</a>
+
+</div>
