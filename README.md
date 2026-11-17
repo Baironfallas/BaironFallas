@@ -1,66 +1,76 @@
 
 <div align="center">
 
-<img src="./assets/terminal.svg" alt="Bairon Fallas | Full Stack Developer" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:243B80,70:5144B5,100:009DC4&height=260&section=header&text=Bairon%20Fallas&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=Desarrollador%20Full%20Stack&descSize=23&descAlignY=59&animation=fadeIn" alt="Bairon Fallas" />
 
-<br />
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1100&color=21DE91&center=true&vCenter=true&width=750&height=40&lines=%3E+Construyo+aplicaciones+web+completas;%3E+Del+backend+a+la+interfaz;%3E+Dise%C3%B1o.+Desarrollo.+Despliego." alt="Presentación animada" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&height=50&lines=Desarrollo+aplicaciones+web+completas;Frontend+%2B+Backend+%2B+Bases+de+datos;Transformando+ideas+en+soluciones" alt="Presentación animada" />
 
-<br />
-
-<a href="https://www.linkedin.com/in/bairon-josue-fallas"><img src="https://img.shields.io/badge/LinkedIn-0B1713?style=for-the-badge&logo=linkedin&logoColor=21DE91&labelColor=0B1713" alt="LinkedIn" /></a>
-<a href="mailto:fallasbaltodanob@gmail.com"><img src="https://img.shields.io/badge/Correo-0B1713?style=for-the-badge&logo=gmail&logoColor=21DE91&labelColor=0B1713" alt="Correo" /></a>
-<a href="https://bairon-fallas.vercel.app"><img src="https://img.shields.io/badge/Portafolio-0B1713?style=for-the-badge&logo=vercel&logoColor=21DE91&labelColor=0B1713" alt="Portafolio" /></a>
-
-</div>
-
-<br />
-
-## `> cat about.txt`
-
-```txt
-Nombre      : Bairon Fallas
-Rol         : Desarrollador Full Stack
-Enfoque     : Aplicaciones web de extremo a extremo
-Trabajo con : Interfaces, APIs y bases de datos
-```
-
-## `> ls ~/stack/`
-
-**`01 / FRONTEND`**
+<br>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,astro,nextjs,tailwind,html,css&perline=8&theme=dark" alt="Frontend" />
+  Construyo aplicaciones web completas, desde la base de datos hasta la interfaz.
 </p>
 
-**`02 / BACKEND`**
+<br>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,dotnet,cs,python&perline=6&theme=dark" alt="Backend" />
-</p>
+<a href="https://www.linkedin.com/in/bairon-josue-fallas">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:fallasbaltodanob@gmail.com">
+  <img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo"/>
+</a>
+<a href="https://bairon-fallas.vercel.app">
+  <img src="https://img.shields.io/badge/Portafolio-5144B5?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio"/>
+</a>
 
-**`03 / DATABASES`**
+<br><br><br>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=3&theme=dark" alt="Bases de datos" />
-</p>
+<h2>✦ Tecnologías y herramientas</h2>
 
-**`04 / TOOLS & CLOUD`**
+<p>Las tecnologías que utilizo para desarrollar aplicaciones de principio a fin.</p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,azure&perline=5&theme=dark" alt="Herramientas" />
-</p>
+<br>
+
+<h3>🎨 Frontend</h3>
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,astro,nextjs,tailwind,html,css&perline=8&theme=dark" alt="Frontend"/>
+
+<br><br>
+
+<h3>⚙️ Backend</h3>
+
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,dotnet,cs,python&perline=6&theme=dark" alt="Backend"/>
+
+<br><br>
+
+<h3>🗄️ Bases de datos</h3>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=3&theme=dark" alt="Bases de datos"/>
+
+<br><br>
+
+<h3>🛠️ Herramientas y plataformas</h3>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,azure&perline=5&theme=dark" alt="Herramientas"/>
+
+<br><br>
 
 ---
 
-<div align="center">
+<h2>✨ Conectemos</h2>
 
-```txt
-bairon@localhost:~$ echo "Gracias por pasar por aquí."
-Gracias por pasar por aquí.
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&height=45&lines=%C2%BFTienes+un+proyecto+en+mente%3F;Siempre+hay+algo+nuevo+por+construir;Hablemos+y+hag%C3%A1moslo+realidad" alt="Contacto animado"/>
 
-<sub>¿Tienes un proyecto en mente? <a href="mailto:fallasbaltodanob@gmail.com">Hablemos</a>.</sub>
+<br>
+
+<a href="mailto:fallasbaltodanob@gmail.com">
+  <img src="https://img.shields.io/badge/Envíame_un_mensaje-5144B5?style=for-the-badge&logo=gmail&logoColor=white" alt="Contáctame"/>
+</a>
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:009DC4,40:5144B5,100:0F172A&height=120&section=footer" alt="Footer"/>
 
 </div>
