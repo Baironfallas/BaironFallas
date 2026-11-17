@@ -1,65 +1,73 @@
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:123040,70:1B4965,100:2C5364&height=280&section=header&text=Bairon%20Fallas&fontSize=58&fontColor=EAF2F8&fontAlignY=38&desc=Desarrollador%20Full%20Stack&descSize=22&descAlignY=58&animation=fadeIn" alt="header"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Construyo+aplicaciones+web+completas;Frontend+moderno+%2B+Backend+s%C3%B3lido;Bases+de+datos%2C+APIs+y+experiencias+funcionales;Siempre+aprendiendo+y+creando+nuevas+soluciones" alt="Typing SVG" />
+
+<br><br>
+
+<p align="center">
+  Desarrollo soluciones web completas, desde la lógica de negocio y las bases de datos,
+  hasta interfaces modernas, intuitivas y funcionales.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bairon-josue-fallas">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:fallasbaltodanob@gmail.com">
+    <img src="https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" />
+  </a>
+  <a href="https://bairon-fallas.vercel.app">
+    <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio" />
+  </a>
+</p>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1B4965&height=2&section=header" width="100%"/>
+
+</div>
+
+<h2 align="center">🚀 Tecnologías</h2>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:172D39,100:29495A&height=230&section=header&text=Bairon%20Fallas&fontSize=58&fontColor=F0F3F5&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Bairon Fallas" />
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,ts,js,astro,nextjs,tailwind,html,css&perline=8" />
 
-<br>
-
-<p>
-  Desarrollo aplicaciones web de principio a fin.<br>
-  Desde arquitecturas backend hasta interfaces modernas.
-</p>
-
-<p>
-  <a href="https://www.linkedin.com/in/bairon-josue-fallas">
-    <img src="https://img.shields.io/badge/LinkedIn-1D3543?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:fallasbaltodanob@gmail.com">
-    <img src="https://img.shields.io/badge/Correo-1D3543?style=flat-square&logo=gmail&logoColor=white" alt="Correo"/>
-  </a>
-  &nbsp;
-  <a href="https://bairon-fallas.vercel.app">
-    <img src="https://img.shields.io/badge/Portafolio-1D3543?style=flat-square&logo=vercel&logoColor=white" alt="Portafolio"/>
-  </a>
-</p>
-
-<br>
-
-<h2>Stack tecnológico</h2>
-
-<table>
-<tr>
-<td align="center" width="500">
-
-<strong>Frontend</strong>
 <br><br>
-<img src="https://skillicons.dev/icons?i=react,ts,js,astro,nextjs,tailwind,html,css&perline=8&theme=dark" alt="Frontend" />
 
-</td>
-</tr>
-<tr>
-<td align="center">
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,dotnet,cs,python&perline=6" />
 
-<strong>Backend</strong>
 <br><br>
-<img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,dotnet,cs,python&perline=6&theme=dark" alt="Backend" />
 
-</td>
-</tr>
-<tr>
-<td align="center">
-
-<strong>Bases de datos y herramientas</strong>
-<br><br>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,github,docker,postman,azure&perline=8&theme=dark" alt="Bases de datos y herramientas" />
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<sub>Code · Build · Deploy</sub>
+### 🗄️ Bases de datos y herramientas
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,github,docker,postman,azure&perline=8" />
 
 </div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1B4965&height=2&section=header" width="100%"/>
+
+### ✨ Sobre mí
+
+💻 Me enfoco en crear aplicaciones web completas y escalables.  
+🧠 Disfruto trabajar tanto en frontend como en backend.  
+🚀 Siempre busco aprender nuevas tecnologías y mejorar mis proyectos.
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1500&color=A5D6FF&center=true&vCenter=true&width=700&lines=Gracias+por+visitar+mi+perfil;Explora+mi+portafolio+y+conectemos;Siempre+abierto+a+nuevas+oportunidades" alt="footer typing" />
+
+</div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:1B4965,100:0D1117&height=120&section=footer" alt="footer"/>
